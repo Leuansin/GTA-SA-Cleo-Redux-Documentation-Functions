@@ -4,7 +4,9 @@
 ---
 
 ## 📂 Repository Overview
-This repository serves as a professional-grade documentation hub for modders developing Real Life/Roleplay systems in GTA San Andreas[cite: 4, 5, 8]. It transforms thousands of lines of raw TypeScript declarations and Sanny Builder opcodes into searchable, human-readable interfaces[cite: 3, 4, 11].
+This repository serves as a professional-grade documentation hub for modders developing any type of mod systems in GTA San Andreas[cite: 4, 5, 8]. It transforms thousands of lines of raw TypeScript declarations and Sanny Builder opcodes into searchable, human-readable interfaces[cite: 3, 4, 11].
+
+(Updated on April-May 2026)
 
 ### 🌐 HTML Documentation
 These are **Interactive Documentation Portals** designed for high-speed development workflow:
