@@ -1,6 +1,7 @@
 # GTA San Andreas — Sanny Builder Library v1.52
 > Referencia compacta de opcodes/comandos para scripting CLEO en GTA SA.
 > Fuente: https://library.sannybuilder.com/#/sa
+> Fuente: sa.json
 
 ## Convenciones
 - **VAR** = variable global | **LVAR** = variable local
